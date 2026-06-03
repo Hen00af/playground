@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background: #111;
+  color: #eee;
+  font-family: system-ui, sans-serif;
+}
+
+main {
+  padding: 24px;
+}
+
+label {
+  display: block;
+  margin: 16px 0;
+}
+
+canvas {
+  display: none;
+}
+
+pre {
+  overflow: auto;
+  padding: 16px;
+  border: 1px solid #444;
+  background: #000;
+  color: #fff;
+  font-family: monospace;
+  font-size: 8px;
+  line-height: 8px;
+}
